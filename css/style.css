@@ -48,11 +48,9 @@ section {
   text-align: center;
   width: 30%;
   margin-left: 70%;
-  font-weight: bold;
   font-size: 125%;
   margin-bottom: 0;
   margin-top: 0;
-  padding: 5px;
   background-color: #ff8a70;
 }
 
@@ -61,11 +59,9 @@ section {
   text-align: center;
   width: 30%;
   margin-left: 70%;
-  font-weight: bold;
   font-size: 125%;
   margin-bottom: 0;
   margin-top: 0;
-  padding: 5px;
   background-color: #c90000;
   color: white;
 }
@@ -75,7 +71,6 @@ section {
   text-align: center;
   width: 30%;
   margin-left: 70%;
-  font-weight: bold;
   font-size: 125%;
   margin-bottom: 0;
   margin-top: 0;
